@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Baran Ejder
 
-I'm a passionate software developer focused on building high-quality, scalable, and efficient applications. Currently, I'm exploring the world of **Artificial Intelligence** and **Machine Learning** and constantly learning new technologies to sharpen my skills.
+I'm a software developer with a focus on **Python**, **Artificial Intelligence**, and **Machine Learning**. I'm continuously learning and improving my skills in these fields.
 
 ## 🚀 About Me
 
-- 🧑‍💻 I'm a high school student at **Sarıyer, İstanbul**.
-- 💻 I am passionate about **Python**, **AI**, and **Software Development**.
-- 🌱 I’m currently learning **Machine Learning** and **Data Science**.
-- 💬 Ask me about **Python**, **Web Development**, **AI** or anything related to programming.
-- 📍 I'm based in **Turkey** but looking to explore opportunities globally.
+- 🧑‍💻 High school student based in **Sarıyer, İstanbul**.
+- 💻 Passionate about **AI**, **Web Development**, and **Software Development**.
+- 🌱 Currently learning **Machine Learning** and **Data Science**.
+- 📍 Open to exploring opportunities globally.
 
 ## 🛠️ Technologies & Tools
 
@@ -17,36 +16,21 @@ I'm a passionate software developer focused on building high-quality, scalable, 
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Version Control**: Git, GitHub
 - **Tools**: VSCode, Jupyter, Docker, Postman
-- **Others**: RESTful APIs, Web Development, Machine Learning
 
 ## 📚 Currently Learning
 
-- Deep dive into **Machine Learning** algorithms and frameworks.
+- Working with **Machine Learning** algorithms.
 - Building projects with **TensorFlow** and **PyTorch**.
-- Working on **AI models** for real-world applications.
-
-## 📈 GitHub Stats
-
-![Baran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 🔗 Find Me Here
 
-- 🐦 **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- 🌐 **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-- 📧 **Email**: your-email@example.com
-- 📱 **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- 🌍 **GitHub**: [BaranEjder](https://github.com/BaranEjder)
+- 🌐 **Website**: [playkeymarket.com](https://playkeymarket.com)
+- 📧 **Email**: ejderrx@gmail.com
 
-## 🧑‍💻 My Projects
+## 🧑‍💻 Projects
 
-- **[Project 1 Name](link-to-project)**: Brief description of the project. 
-- **[Project 2 Name](link-to-project)**: Brief description of the project.
-- **[Project 3 Name](link-to-project)**: Brief description of the project.
-
-## 🌟 Contribution
-
-I actively contribute to open-source projects and enjoy collaborating with others on coding challenges and hackathons. Feel free to check out my repositories and contribute to my projects or just give them a star!
+- **[playkeymarket.com](https://playkeymarket.com)**: My active project in the gaming market.
 
 ---
 
-Thank you for visiting my GitHub profile! 🙌
+Thanks for checking out my profile! 🙌
